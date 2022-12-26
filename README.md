@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 # About Me:
 Welcome to my GitHub page ...<br>I met C++ with software. I continue with  Python, Java, HTML.<br>I am currently learning CSS, JavaScript, Dart and Flutter. <br>I learned Java for 4 months with the Patika Dev, Engin Demirog and attended many different trainings. <br>I create every line of code with enthusiasm and enthusiasm. <br>I am very happy to have discovered my interest in software. <br>An awareness made me say no to many things. <br>My choice is software...
